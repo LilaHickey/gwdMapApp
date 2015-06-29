@@ -1,0 +1,68 @@
+[
+    {
+        "id": "gordoughs-public-house", 
+        "name": "Gordough's Public House", 
+        "url": "http://www.geekswhodrink.com/venue?id=625416",
+        "address":"209 B West 5th Street Austin, TX 78701",
+        "day":"Sunday",
+        "time":"7:00pm",
+        "coords": {
+            "latitude": 30.267655, 
+            "longitude": -97.745347    
+        },
+        "options": {
+            "title": "The White House"
+        }
+    },    
+    {
+        "id": "black-star-coop", 
+        "name": "Black Star Coop", 
+        "url": "http://www.geekswhodrink.com/venue?id=201088",
+        "address": "7020 Easy Wind Drive Austin, TX 78752",
+        "day": "Sunday",
+        "time": "8:00pm",
+        "coords": {
+            "latitude": 30.338814,
+            "longitude": -97.718681
+        }
+    }, 
+    {
+        "id": "pinthouse-pizza", 
+        "name": "Pinthouse Pizza", 
+        "url": "http://www.geekswhodrink.com/venue?id=310854",
+        "address":"4729 Burnet Rd Austin, TX 78756",
+        "day":"Tuesday",
+        "time":"8:00pm",
+        "coords": {
+            "latitude": 30.318953,
+            "longitude": -97.739054
+        }
+    },
+    {
+        "id": "400-rabbits", 
+        "name": "400 Rabbits at Alamo Drafthouse Slaughter Lane", 
+        "url": "http://www.geekswhodrink.com/venue?id=220816",
+        "address":"5701 W Slaughter Lane Austin, TX 78739",
+        "day":"Monday",
+        "time":"8:00pm",
+        "coords": {
+            "latitude": 30.200637,
+            "longitude": -97.869581
+        }
+    },
+    {
+        "id": "craft-pride", 
+        "name": "Craft Pride", 
+        "url": "http://www.geekswhodrink.com/venue?id=220816",
+        "address":"61 Rainey St Austin, TX 78701",
+        "day":"Tuesday",
+        "time":"8:00pm",
+        "coords": {
+            "latitude": 30.258226,
+            "longitude": -97.738756
+        }
+    }
+]
+
+
+

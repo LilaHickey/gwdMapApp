@@ -1,0 +1,21 @@
+/* app css stylesheet 
+TODO: implement grunt/less;*/
+
+
+
+body {
+   padding: 20px 60px;
+}
+.ctrls, .mapListing {
+	float: left;
+}
+
+.mapListing {
+	margin-left: 40px;
+	max-width: 250px;
+}
+.mapListing li {
+	padding: 3px 0 5px 0;
+}
+
+.angular-google-map-container { height: 600px; width: 650px;}
